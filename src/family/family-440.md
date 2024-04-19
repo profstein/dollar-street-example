@@ -5,6 +5,7 @@ tags: [family, Denmark]
 income: 5343
 video: family-440.mp4
 description: The family lives in Denmark. They are 2 adults and 2 children. T is 41 years old and she is a teacher. She lives with her family in a 4-bedroom house. They like the house which is very spacious and close to their workplace, however, it is a bit noisy from the main road nearby. Their favorite item in the house is their kid’s teddy bear toy. The next big thing they plan on spending is a family holiday trip. Their dream is to own a treehouse.
+---
 # {{title}}
 
 Monthly income: {{income}}

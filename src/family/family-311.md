@@ -5,6 +5,7 @@ tags: [family, Serbia]
 income: 1193
 video: 2024-04-19-families-5fd0458ff2d9500e43593455.mp4
 description: The family lives in Serbia. They are 2 adult and 2 children family members. D is 35 years old and he is a freelance photographer. 
+---
 # {{title}}
 
 Monthly income: {{income}}
