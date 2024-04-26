@@ -3,6 +3,11 @@ title: Family 311
 layout: post.njk
 tags: [family, Serbia]
 income: 1193
+familyNum: 311
+country: Serbia
+region: Europe
+credit: Darko Rajkovic
+creditLink: https://www.gapminder.org/dollar-street/photographers/darko-rajkovic
 video: 2024-04-19-families-5fd0458ff2d9500e43593455.mp4
 description: The family lives in Serbia. They are 2 adult and 2 children family members. D is 35 years old and he is a freelance photographer. 
 ---
