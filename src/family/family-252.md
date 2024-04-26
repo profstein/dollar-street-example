@@ -3,6 +3,11 @@ title: Family 252
 layout: post.njk
 tags: [family, "South Africa"]
 income: 751
+familyNum: 252
+country: South Africa
+region: Africa
+credit: Ronel Atherstone
+creditLink: https://www.gapminder.org/dollar-street/photographers/ronel-atherstone
 video: 252-families.mp4
 description: The family lives in South Africa. M is 41 years old and he works as a porter at a hospital. His wife L is 39 years old and she is a guest house supervisor. They live with their daughter Y, 11 years old, and son O, 4 years old.
 ---
