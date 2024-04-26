@@ -3,6 +3,11 @@ title: Family 143
 layout: post.njk
 tags: [family, Tunisia]
 income: 218
+familyNum: 143
+country: Tunisia
+region: Africa
+credit: Zoriah Miller
+creditLink: https://www.gapminder.org/dollar-street/photographers/zoriah-miller
 video: family-143.mp4
 description: The family lives in Tunisia. R is 36 years old and works as a mason.
 ---
