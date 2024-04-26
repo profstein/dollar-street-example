@@ -2,7 +2,12 @@
 title: Family 171
 layout: post.njk
 tags: [family, Jordan]
+familyNum 171
 income: 583
+country: Jordan
+region: Asia
+credit: Zoriah Miller
+creditLink: https://www.gapminder.org/dollar-street/photographers/zoriah-miller
 video: 171-2024-04-16-visit-families.mp4
 description: The family lives in Jordan. H is 60 years old and works as a driver. His wife E is 49 years old and they live with their 3 children in a rented 3-bedroom house.
 ---
