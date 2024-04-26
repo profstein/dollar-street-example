@@ -2,7 +2,7 @@
 title: Family 171
 layout: post.njk
 tags: [family, Jordan]
-familyNum 171
+familyNum: 171
 income: 583
 country: Jordan
 region: Asia
